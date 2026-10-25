@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "primeiro-mod",
+	"version": "${version}",
+	"name": "Primeiro Mod",
+	"description": "Criando meu primeiro mod",
+	"authors": [
+		"JEFFvff"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/primeiro-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.jeff.primeiromod.PrimeiroMod"
+		],
+		"fabric-datagen": [
+			"net.jeff.primeiromod.PrimeiroModDataGenerator"
+		]
+	},
+	"mixins": [
+		"primeiro-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
