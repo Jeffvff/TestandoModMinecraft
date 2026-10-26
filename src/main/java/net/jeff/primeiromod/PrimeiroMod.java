@@ -2,6 +2,7 @@ package net.jeff.primeiromod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.jeff.primeiromod.item.ModCreativeTabs;
 import net.jeff.primeiromod.item.ModItems;
 
 import net.minecraft.resources.Identifier;
@@ -17,6 +18,7 @@ public class PrimeiroMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.initialize();
+		ModCreativeTabs.initialize();
 	}
 
 	public static Identifier id(String path) {
