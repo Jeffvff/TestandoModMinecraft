@@ -1,0 +1,9 @@
+newmtl m_28ed4584-91f9-0e7f-563c-dbef20365178
+Ka 0.1 0.1 0.1
+Kd 1.0 1.0 1.0
+Ks 0.25 0.15 0.35
+Ns 32
+d 1.0
+illum 2
+map_Kd argo_vestia.png
+
