@@ -7,6 +7,9 @@ import net.minecraft.resources.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import net.jeff.primeiromod.item.ModItems;
+
+
 public class PrimeiroMod implements ModInitializer {
 	public static final String MOD_ID = "primeiro-mod";
 
@@ -14,6 +17,8 @@ public class PrimeiroMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+
+		ModItems.initialize();
 
 
 		LOGGER.info("Hello Fabric world!");
