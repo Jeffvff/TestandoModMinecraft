@@ -2,14 +2,14 @@
 	"schemaVersion": 1,
 	"id": "primeiro-mod",
 	"version": "${version}",
-	"name": "Primeiro Mod",
-	"description": "Criando meu primeiro mod",
+	"name": "VOID POWER",
+	"description": "Com o novo VOID POWER, você terá acesso a armas lendárias, armaduras poderosas e habilidades dimensionais capazes de transformar sua aventura. Explore o poder do vazio, domine energias celestiais e descubra novas possibilidades neste incrível mundo infinito de Minecraft!",
 	"authors": [
 		"JEFFvff"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Jeffvff/TestandoModMinecraft",
+		"sources": "https://github.com/Jeffvff/TestandoModMinecraft"
 	},
 	"license": "MIT",
 	"icon": "assets/primeiro-mod/icon.png",

@@ -1,4 +1,6 @@
-# Primeiro Mod
+# VOID POWER
+
+Mod de Minecraft criado por **JEFFvff**, com armas lendárias, armaduras poderosas e habilidades dimensionais inspiradas no poder do vazio e em energias celestiais.
 
 ## Setup
 
