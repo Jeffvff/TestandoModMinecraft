@@ -1,3 +1,12 @@
 {
-  "item.primeiro-mod.void_power_icon": "Void Vortex"
+  "item.primeiro-mod.void_power_icon": "Void Vortex",
+  "key.category.primeiro-mod.void": "VOID",
+  "key.primeiro-mod.open_void": "Open VOID Menu",
+  "key.primeiro-mod.skill_1": "Activate Skill 1",
+  "key.primeiro-mod.skill_2": "Activate Skill 2",
+  "key.primeiro-mod.skill_3": "Activate Skill 3",
+  "key.primeiro-mod.skill_4": "Activate Skill 4",
+  "key.primeiro-mod.skill_5": "Activate Skill 5",
+  "screen.primeiro-mod.void_skills": "VOID Skills",
+  "widget.primeiro-mod.empty_skill_slot": "Empty skill slot"
 }

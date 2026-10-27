@@ -18,6 +18,9 @@
 		"main": [
 			"net.jeff.primeiromod.PrimeiroMod"
 		],
+		"client": [
+			"net.jeff.primeiromod.client.VoidClient"
+		],
 		"fabric-datagen": [
 			"net.jeff.primeiromod.PrimeiroModDataGenerator"
 		]

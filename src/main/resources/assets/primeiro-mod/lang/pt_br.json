@@ -1,3 +1,12 @@
 {
-  "item.primeiro-mod.void_power_icon": "Vórtice do Vazio"
+  "item.primeiro-mod.void_power_icon": "Vórtice do Vazio",
+  "key.category.primeiro-mod.void": "VOID",
+  "key.primeiro-mod.open_void": "Abrir menu VOID",
+  "key.primeiro-mod.skill_1": "Ativar habilidade 1",
+  "key.primeiro-mod.skill_2": "Ativar habilidade 2",
+  "key.primeiro-mod.skill_3": "Ativar habilidade 3",
+  "key.primeiro-mod.skill_4": "Ativar habilidade 4",
+  "key.primeiro-mod.skill_5": "Ativar habilidade 5",
+  "screen.primeiro-mod.void_skills": "Habilidades VOID",
+  "widget.primeiro-mod.empty_skill_slot": "Slot de habilidade vazio"
 }
